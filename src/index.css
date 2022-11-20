@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.leaflet-container {
+
+  height: 900px;
+  width: 100%;
+}
+.leaflet-default-icon-path{
+  background-image: url(https://static.vecteezy.com/system/resources/previews/009/682/035/original/place-holder-maps-location-free-png.png)
+}
